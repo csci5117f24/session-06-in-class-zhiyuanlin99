@@ -1,0 +1,1 @@
+create table color(color,text,name text)
